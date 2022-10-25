@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Cleber
- *
- */
-module ProjetoClass {
-}
